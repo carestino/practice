@@ -1,4 +1,11 @@
 <?php
+/**
+ * Este código tiene algunos errores. Podrás encontrarlos y solucionarlos? Tip: Podes ejecutar este archivo y podes Googlear si lo crees necesario.
+ * Una vez que encuentres los errores. Qué mejoras le harías a estas clases?
+ */
+
+
+
 //File: Designer.php
 class Designer
 {
@@ -63,7 +70,7 @@ $programmer->setName('John Doe')
 //... some more code...
 $designer = new Designer();
 $designer->setName(['Jane Smith'])
-    ->setPorfolio('https://www.behance.net/jane_smthith_90');
+    ->setPorfolioUrl('https://www.behance.net/jane_smthith_90');
 
 
 //... some more code...
