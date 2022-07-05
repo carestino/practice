@@ -1,7 +1,7 @@
 <?php
 /**
  * Implementá el método unique_names.
- * Cuando se pasan dos arrays deberá devolver un array que contenga los nombres de una o de ambas.
+ * Cuando se pasan dos arrays deberá devolver un array que contenga los nombres ambos.
  * El array no debe tener duplicados.
  * Por ejemplo, llamar a unique_names(['Ava', 'Emma', 'Olivia'], ['Olivia', 'Sophia', 'Emma']).
  * Devolvera ['Ava', 'Emma', 'Olivia','Sophia']

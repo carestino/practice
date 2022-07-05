@@ -1,7 +1,7 @@
 <?php
 /**
  * La interface de usuarios contiene dos tipos de controles de entrada.
- * TestInput, acepta todos los tipos
+ * TextInput, acepta todos los tipos
  * NumericInput que solo acepta dígitos.
  * Implemente la clase TextInput que contenga:
  * - Un método add($text) que agrega el texto dado al actual valor
