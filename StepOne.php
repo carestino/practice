@@ -6,7 +6,6 @@
 
 
 
-//File: Designer.php
 class Designer
 {
     public $name = '';
@@ -33,7 +32,6 @@ class Designer
     }
 }
 
-//File: Programmer.php
 class Programmer
 {
     public $name = '';
@@ -61,16 +59,18 @@ class Programmer
 }
 
 
-//File: index.php
-//... some code...
-$programmer = new Programmer();
-$programmer->setName('John Doe')
-    ->getGithubUrl('https://github.com/github');
 
 //... some more code...
 $designer = new Designer();
 $designer->setName(['Jane Smith'])
     ->setPorfolioUrl('https://www.behance.net/jane_smthith_90');
 
+//... some code...
+$programmer = new Programmer();
+$programmer->setName('John Doe')
+    ->getGithubUrl('https://github.com/github');
+
+var_export($programmer);
+var_export($designer);
 
 //... some more code...
