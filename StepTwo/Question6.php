@@ -9,7 +9,7 @@
  *
  * Implemente la clase NumericInput que contenga:
  * - Hereda de TextInput
- * - El método add ignorará todo valor no numérico recibido como parametro
+ * - El método add ignorará todo parámetro $text que no sea numérico
  */
 
 class TextInput
