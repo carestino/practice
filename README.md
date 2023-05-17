@@ -1,6 +1,6 @@
 # Practice Level 1
 **Carestino Practice** 
-- [Pregunta 10](Steps/question-0.php)
+- [Pregunta 0](Steps/question-0.php)
 - [Pregunta 1](Steps/question-1.php)
 - [Pregunta 2](Steps/question-2.php)
 - [Pregunta 3](Steps/question-3.php)
